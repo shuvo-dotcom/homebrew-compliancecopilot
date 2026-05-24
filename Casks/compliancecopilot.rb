@@ -1,6 +1,6 @@
 cask "compliancecopilot" do
   version "1.0.0"
-  sha256 "addfa9bbdc49a40e04a136d6fe4fa1eb22147b64f833d5c9b15467db20190732"
+  sha256 "7f4da0c099c1165a1efce0cb39aac272833aa9789ba587ccf1e1950e8562056a"
 
   url "https://github.com/shuvo-dotcom/compliancecopilot/releases/download/v#{version}/ComplianceCopilot.dmg"
   name "ComplianceCopilot"
